@@ -29,7 +29,7 @@ The project illustrates the global geographical distribution of total gas emissi
 
 ## Tableau visualizations of the analysis:
 
-[Tableau visualizations for Solid Waste Emissions](https://public.tableau.com/views/Emissions_final_story_05_09_/Story1?:language=en-US&:display_count=n&:origin=viz_share_link)
+[Tableau visualizations for Solid Waste Emissions](https://public.tableau.com/views/GlobalSolidWasteEmissions2015-2021/Story1?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 
 *The Waste Management issue category recognizes the threats of solid waste to human and environmental health. It is based on three indicators: controlled solid waste, recycling rates, and ocean plastic pollution.
